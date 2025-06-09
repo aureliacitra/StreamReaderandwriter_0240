@@ -18,5 +18,8 @@ int main ()
         if(baris == "q")
         break;
         
+        outfile << baris << endl;
     }
+
+   
 }

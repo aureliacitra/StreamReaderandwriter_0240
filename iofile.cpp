@@ -39,4 +39,7 @@ if (infile.is_open())
 
     infile.close();
 }
+else
+  cout << "unable to open this file";
+  return 0;
 }

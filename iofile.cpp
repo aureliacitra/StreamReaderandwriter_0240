@@ -37,6 +37,6 @@ if (infile.is_open())
        cout << baris << '\n';
     }
 
-    
+    infile.close();
 }
 }

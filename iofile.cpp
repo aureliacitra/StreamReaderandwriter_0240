@@ -32,6 +32,8 @@ cout << endl
 
 if (infile.is_open())
 {
-   
+    while (getline(infile, baris))
+    {
+    }
 }
 }
